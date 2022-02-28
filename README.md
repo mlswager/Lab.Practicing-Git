@@ -1,1 +1,1 @@
-this is a repo for learning git
+this is a most excellent repo for learning the bodacious git
